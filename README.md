@@ -5,16 +5,16 @@
 including the following templates:
 
 - pull request
-- EngineeringFundChecklist.md
-- Sprint0.md
-- bug.md
-- checkpoint.md
-- designreview.md
-- dod-review.md
-- feature.md
-- found-dead-links.md
-- release.md
-- retro.md
-- sprint-tracker.md
-- task.md
-- userstory.md
+- EngineeringFundChecklist
+- Sprint0
+- bug
+- checkpoint
+- designreview
+- dod-review
+- feature
+- found-dead-links
+- release
+- retro
+- sprint-tracker
+- task
+- userstory
